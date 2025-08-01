@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base：'/caiyifeng/'，
   title: "LYEy_isine blog",
   description: "LYEy_isine个人博客",
   themeConfig: {
